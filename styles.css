@@ -1,14 +1,25 @@
 /*  your css code here. If applicable */
-#main{
+.imageContainer{
 	width: 1000px;
-	height: 1000px;
+	height: 750px;
 	border: 1px;
 	background-color: #cbd6cb;
 }
 
+#img{
+	padding-left: 10px;
+	padding-top: 5px;
+}
+#tab{
+	margin: 10px;
+
+	
+	
+}
 
 #head{
 width: 200px;
 	height: 200px;
+	padding-left: 10px;
 	
 }
