@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#main{
+	width: 1000px;
+	height: 1000px;
+	border: 1px;
+	background-color: #cbd6cb;
+}
+
+
+#head{
+width: 200px;
+	height: 200px;
+	
+}
